@@ -7,7 +7,6 @@ G01 Z-5 ;drill into wp
 G01 X20 Y80
 G02 X20 Y20 I0 J-30;
 G01 Z5 ;Raise the tool
-;outer D
 G00 X0 Y0 ; Starting point for outer D
 G01 Z-5 ; dril into wp
 G01 X0 Y100
