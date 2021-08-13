@@ -1,0 +1,17 @@
+{
+      "units": "metric",
+      "resolution-mode": "medium",
+      "resolution": 1,
+      "tools": {},
+      "workpiece": {
+        "automatic": true,
+        "margin": 33,
+        "bounds": {
+          "min": [-48.982, -34.66, -6.65],
+          "max": [192.382, 134.66, 0]
+        }
+      },
+      "files": [
+        "../initials.gc"
+      ]
+    }
