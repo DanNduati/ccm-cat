@@ -1,5 +1,5 @@
 G21 G17 G90
-M03 S1000 F100 T01 D05
+M03 S5200 F100 T01 D05
 G41
 M08 ; Turn coolant on
 G00 X20 Y20 Z5 ; Starting point for inner D
